@@ -1,9 +1,5 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-
-## Demo
-#### Demo of Project :  https://crypto-tracker-firebase.netlify.app/
-
 ## The project is developed using: 
 
 - [React JS](https://reactjs.org/)
@@ -23,6 +19,7 @@ Wait for VS Code to finish loading the project.
 
 ### Download dependencies from the Command Line Interface:
 
+### npm install
 To Download the depencies from the command line interface, follow these steps:
 
 Open a terminal window in VS Code by clicking on "Terminal" in the top menu and selecting "New Terminal".
@@ -31,6 +28,7 @@ Type `npm install` and press Enter.
 Wait for the installation to complete.
 
 ### How to Run the Project
+### npm start
 To run the project, follow these steps:
 
 Open a terminal window in VS Code.
