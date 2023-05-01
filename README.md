@@ -21,13 +21,13 @@ Navigate to the directory where your project is located.
 Select the project folder and click "Open".
 Wait for VS Code to finish loading the project.
 
-### Running npm install from the Command Line Interface:
+### Download dependencies from the Command Line Interface:
 
-To run the  `**npm install**` command from the command line interface, follow these steps:
+To Download the depencies from the command line interface, follow these steps:
 
 Open a terminal window in VS Code by clicking on "Terminal" in the top menu and selecting "New Terminal".
 Navigate to the project directory by typing cd /path/to/project in the terminal window.
-Type npm install and press Enter.
+Type `npm install` and press Enter.
 Wait for the installation to complete.
 
 ### How to Run the Project
@@ -35,7 +35,7 @@ To run the project, follow these steps:
 
 Open a terminal window in VS Code.
 Navigate to the project directory by typing cd /path/to/project in the terminal window.
-Type `**npm start**`and press Enter.
+Type `npm start`and press Enter.
 Wait for the project to start.
 
 ### How to Check if the Project is Working Correctly
