@@ -15,11 +15,13 @@ function App() {
     },
   }));
 
-  const classes = useStyles();
+  ///const classes = useStyles();
 
   return (
     <BrowserRouter>
-    <div className={classes.App}></div>
+    <div 
+    //className={classes.App}
+    ></div>
       <div>
         <Header />
         <Route path="/" component={Homepage} exact/>
