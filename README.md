@@ -1,6 +1,3 @@
-# Crypto Tracker App
-
-
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 
@@ -25,7 +22,7 @@ Select the project folder and click "Open".
 Wait for VS Code to finish loading the project.
 
 ### Running npm install from the Command Line Interface
-To run the #### `npm install` command from the command line interface, follow these steps:
+To run the ### `npm install` command from the command line interface, follow these steps:
 
 Open a terminal window in VS Code by clicking on "Terminal" in the top menu and selecting "New Terminal".
 Navigate to the project directory by typing cd /path/to/project in the terminal window.
@@ -37,7 +34,7 @@ To run the project, follow these steps:
 
 Open a terminal window in VS Code.
 Navigate to the project directory by typing cd /path/to/project in the terminal window.
-Type #### `npm start`and press Enter.
+Type ### `npm start`and press Enter.
 Wait for the project to start.
 
 ### How to Check if the Project is Working Correctly
